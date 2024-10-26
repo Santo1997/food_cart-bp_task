@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "badge": "new",
+    "img": "chicken.webp",
+    "name": "Chicken",
+    "price": "69$/each",
+    "description": "Chicken Fajitas served with rice and beans, tortillas, guacamole, salsa, and sour cream. Chicken Fajitas served with rice"
+  },
+  {
+    "id": 2,
+    "badge": null,
+    "img": "fajitas.webp",
+    "name": "Fajitas",
+    "price": "169$/each",
+    "description": "Chicken Fajitas served with rice and beans, tortillas, guacamole, salsa, and sour cream. Chicken Fajitas served with rice"
+  },
+  {
+    "id": 3,
+    "badge": "new",
+    "img": "masala.webp",
+    "name": "Chicken Masala",
+    "price": "269$/each",
+    "description": "Chicken Fajitas served with rice and beans, tortillas, guacamole, salsa, and sour cream. Chicken Fajitas served with rice"
+  }
+]
